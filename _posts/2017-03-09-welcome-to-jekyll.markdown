@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Smarttle!"
 date:   2017-03-09 13:38:24 +0100
 categories: jekyll update
 ---
